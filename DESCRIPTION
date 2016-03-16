@@ -1,6 +1,6 @@
 Package: rscimark
 Title: SciMark 2.0 Benchmark for Scientific and Numerical Computing
-Description: The SciMark 2.0 benchmark was originally developed in Java as a benchmark for numerical and scientific computational performance. It measures the performance of several computational kernels which are frequently occuring in scientific applications. This package is a simple wrapper around the ANSI C implementation of the benchmark.
+Description: The SciMark 2.0 benchmark was originally developed in Java as a benchmark for numerical and scientific computational performance. It measures the performance of several computational kernels which are frequently occurring in scientific applications. This package is a simple wrapper around the ANSI C implementation of the benchmark.
 Authors@R: c(person("Bernd", "Bischl", email = "bernd_bischl@gmx.net",
     role = c("aut", "cre")), person("Jakob", "Bossek", email = "j.bossek@gmail.com", role = c("aut")))
 URL: https://github.com/berndbischl/rscimark
